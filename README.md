@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1> Prazer, Wesley 🤙🏽</h1> <br/> <h3> Seja Bem-vindo 🐉</h3>
+   <h1> Prazer, Wesley 🤙🏽</h1> <h3> Seja Bem-vindo 🐉</h3>
 </div>
 <hr/>
 
