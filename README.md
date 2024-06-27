@@ -4,7 +4,12 @@
 </div>
 <hr/>
 
-Sobre Mim 🐧
+<nav align="center">
+   <h1>Sobre Mim 🐧</h1>
+   <br/>
+   <p>Estudante de Análise e Desenvolvimento de Sistemas - FATEC TQ</p>
+
+</nav>
 
 <hr/>
 
