@@ -1,6 +1,4 @@
-## Salve 👌
-
-![Snake animation](https://github.com/Wesley-dSA/Wesley-dSA/blob/output/dist/snake.svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RenanNDSilva.RenanNDSilva" />
 
 <hr/>
 
