@@ -1,4 +1,15 @@
-## Salve
+## Prazer, Wesley 🤙🏽
+### Seja Bem-vindo 🐉
+
+<hr/>
+
+# O que eu sei 💭
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c" /><br>
+</div>
+
 
 <hr/>
 
