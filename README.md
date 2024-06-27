@@ -4,6 +4,11 @@
 </div>
 <hr/>
 
+Sobre Mim 🐧
+
+<hr/>
+
+
 # O que eu sei 💭
 
 <div align="center">
