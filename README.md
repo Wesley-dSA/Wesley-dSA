@@ -1,7 +1,8 @@
+
 <div align="center">
     
-    <h1 id="title" >Prazer, Wesley 🤙🏽 </h1>
-    <h2 id="subtitle">Seja Bem-vindo 🐉</h2>
+    <h1>Prazer, Wesley 🤙🏽 </h1>
+    <h2>Seja Bem-vindo 🐉</h2>
 </div>
 <hr/>
 
