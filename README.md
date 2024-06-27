@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Snake animation[(https://github.com/Wesley-dSA/Wesley-dSA/blob/output/github-contribuition-grid-snake.svg)
 <!--
 **Wesley-dSA/Wesley-dSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
