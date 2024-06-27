@@ -14,8 +14,7 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: Wesley-dSA
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
