@@ -1,6 +1,12 @@
+<style>
+    #title{
+        border-color: yellow;
+    }
+</style>
+
 <div align="center">
-## Prazer, Wesley 🤙🏽
-### Seja Bem-vindo 🐉
+    <h1 id="title" >Prazer, Wesley 🤙🏽 </h1>
+    <h2 id="subtitle">Seja Bem-vindo 🐉</h2>
 </div>
 <hr/>
 
