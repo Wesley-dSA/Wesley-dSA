@@ -11,8 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          node-version: '20'
       - uses: Platane/snk@master
         with:
           github_user_name: Wesley-dSA
@@ -21,7 +19,7 @@ jobs:
           mkdir -p dist
           mv snake.svg dist/snake.svg
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v2.8.0  # Atualizando para a versão mais recente
         with:
           target_branch: output
           build_dir: dist
