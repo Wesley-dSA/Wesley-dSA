@@ -19,7 +19,7 @@ jobs:
           mkdir -p dist
           mv snake.svg dist/snake.svg
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.8.0  # Atualizando para a versão mais recente
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
