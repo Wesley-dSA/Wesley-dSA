@@ -1,8 +1,6 @@
 
 <div align="center">
-    
-   # Prazer, Wesley 🤙🏽
-   ### Seja Bem-vindo 🐉
+   # Prazer, Wesley 🤙🏽 <br/> ### Seja Bem-vindo 🐉
 </div>
 <hr/>
 
