@@ -1,4 +1,4 @@
-<h1 style="align="center">Olá, meu nome é Wesley</h1>
+<h1 align="center">Olá, meu nome é Wesley</h1>
 
 <h3 align="center">Sou estudande de ADS em Fatec-Taquaritinga </h3>
 
