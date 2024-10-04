@@ -1,8 +1,3 @@
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
 <h1 align="center">Olá, meu nome é Wesley</h1>
 
 <h3 align="center">Sou estudande de ADS em Fatec-Taquaritinga </h3>
