@@ -1,1 +1,48 @@
+name: Generate Snake Game
 
+on:
+  schedule:
+    # Execute todos os dias à meia-noite UTC
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: |
+          pip install requests
+
+      - name: Gerar o Snake Game
+        run: |
+          mkdir -p output
+          python generate_snake.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar o Snake Game
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: output/snake.svg
+
+      - name: Commit e Push do Snake Game
+        run: |
+          git config --global user.email "wesley.aragao1331@gmail.com"
+          git config --global user.name "Wesley-dSA"
+          git add output/snake.svg
+          git commit -m "Atualizar Snake Game"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
