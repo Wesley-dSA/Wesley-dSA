@@ -26,7 +26,7 @@
 <div align="center">
   <h2> Minha Contribuições </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Wesley-dSA/Wesley-dSA/main/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Wesley-dSA/Wesley-dSA/main/snake.svg" />
 
   <br/><br/><br/>
 </div>
