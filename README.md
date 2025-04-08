@@ -10,9 +10,6 @@
 
  </div>
  
-
- <hr/>
- 
 <h2 align="center">⚒️ Linguagens-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
@@ -25,6 +22,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dSA/Wesley-dSA/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wesley-dSA/Wesley-dSA/output/pacman-contribution-graph.svg">
 </picture>
-
-<hr/>
 
