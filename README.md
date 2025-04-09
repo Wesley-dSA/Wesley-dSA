@@ -30,7 +30,9 @@
 
 ###
 
-<a href="https://imgflip.com/i/9q6vmd"><img align="right" height="150" src="https://i.imgflip.com/9q6vmd.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></div>
+###
+
+<a href="https://imgflip.com/i/9q6vmd"><img align="center" height="150" src="https://i.imgflip.com/9q6vmd.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></div>
 
 ###
 
