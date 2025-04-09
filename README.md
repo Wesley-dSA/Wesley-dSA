@@ -30,9 +30,10 @@
 
 ###
 
-###
 
 <a href="https://imgflip.com/i/9q6vmd"><img align="center" height="150" src="https://i.imgflip.com/9q6vmd.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></div>
+
+###
 
 ###
 
@@ -41,7 +42,7 @@
   <a href="https://www.linkedin.com/in/wesleydsa"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
-<br> <br> <br>
+<br> <br>
 <h2 align="left" >My Future💡</h2>
 <h3>My plans are: </h4> 
 
