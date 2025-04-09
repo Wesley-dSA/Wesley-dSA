@@ -20,6 +20,8 @@
 ###
 
 <h2 align="center">💻My Contributions🖱️</h2>
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wesley-dSA/Wesley-dSA/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dSA/Wesley-dSA/output/pacman-contribution-graph.svg">
