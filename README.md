@@ -53,4 +53,4 @@
 <h4>-Stabiliation of my financial situation💶</h4>
 
 ###
-<h4>-Spreading the Gospel to the world📖</h4>
+<h4>-Spread the Gospel to the world📖</h4>
