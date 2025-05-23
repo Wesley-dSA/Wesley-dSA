@@ -40,14 +40,14 @@
 
 ###
 
+<div align="center" justify-content="center" display="flex">
+<a href="https://imgflip.com/i/9q6vmd"><img align="center" height="150" src="https://i.imgflip.com/9q6vmd.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator" /></div>
 
-<a href="https://imgflip.com/i/9q6vmd"><img align="center" height="150" src="https://i.imgflip.com/9q6vmd.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></div>
 
 ###
 
 ###
 
-<div align="left">
   <a href="https://www.instagram.com/aragaowel/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="https://www.linkedin.com/in/wesleydsa"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
